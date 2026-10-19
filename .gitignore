@@ -1,0 +1,4 @@
+*.o
+*.so
+.ns-module-info.h
+.ns-module-info.h.tmp
